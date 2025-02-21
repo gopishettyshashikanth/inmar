@@ -1,0 +1,62 @@
+Location_Code,Location,Department_Code,Department,Category_Code,Category,SubCategory_Code,SubCategory
+l1,Perimeter,d1,Bakery,c1,Bakery Bread,sc1,Bagels
+l1,Perimeter,d1,Bakery,c1,Bakery Bread,sc2,Baking or Breading Products
+l1,Perimeter,d1,Bakery,c1,Bakery Bread,sc3,English Muffins or Biscuits
+l1,Perimeter,d1,Bakery,c1,Bakery Bread,sc4,Flatbreads
+l1,Perimeter,d1,Bakery,c2,In Store Bakery,sc5,Breakfast Cake or Sweet Roll
+l1,Perimeter,d1,Bakery,c2,In Store Bakery,sc6,Cakes
+l1,Perimeter,d1,Bakery,c2,In Store Bakery,sc7,Pies
+l1,Perimeter,d2,Bakery,c2,In Store Bakery,sc8,Seasonal
+l2,Center,d2,Dairy,c3,Cheese,sc9,Cheese Sauce
+l2,Center,d2,Dairy,c3,Cheese,sc10,Specialty Cheese
+l2,Center,d2,Dairy,c4,Cream or Creamer,sc11,Dairy Alternative Creamer
+l2,Center,d2,Dairy,c4,Cream or Creamer,sc12,Whipping Creams
+l2,Center,d2,Dairy,c5,Cultured,sc13,Cottage Cheese
+l2,Center,d2,Dairy,c6,Refrigerated Baking,sc14,Refrigerated Breads
+l2,Center,d2,Dairy,c6,Refrigerated Baking,sc15,Refrigerated English Muffins and Biscuits
+l2,Center,d2,Dairy,c6,Refrigerated Baking,sc16,Refrigerated Hand Held Sweets
+l2,Center,d2,Dairy,c6,Refrigerated Baking,sc17,Refrigerated Pie Crust
+l2,Center,d2,Dairy,c6,Refrigerated Baking,sc18,Refrigerated Sweet Breakfast Baked Goods
+l1,Perimeter,d3,Deli and Foodservice,c7,Self Service Deli Cold,sc19,Beverages
+l1,Perimeter,d3,Deli and Foodservice,c8,Service Deli,sc20,Cheese All Other
+l1,Perimeter,d3,Deli and Foodservice,c8,Service Deli,sc21,Cheese American
+l1,Perimeter,d4,Floral,c9,Bouquets and Cut Flowers,sc22,Bouquets and Cut Flowers
+l1,Perimeter,d4,Floral,c10,Gifts,sc23,Gifts
+l1,Perimeter,d4,Floral,c11,Plants,sc24,Plants
+l2,Center,d5,Frozen,c12,Frozen Bake,sc25,Bread or Dough Products Frozen
+l2,Center,d5,Frozen,c12,Frozen Bake,sc26,Breakfast Cake or Sweet Roll Frozen
+l2,Center,d5,Frozen,c13,Frozen Breakfast,sc27,Frozen Breakfast Entrees
+l2,Center,d5,Frozen,c13,Frozen Breakfast,sc28,Frozen Breakfast Sandwich
+l2,Center,d5,Frozen,c13,Frozen Breakfast,sc29,Frozen Egg Substitutes
+l2,Center,d5,Frozen,c13,Frozen Breakfast,sc30,Frozen Syrup Carriers
+l2,Center,d5,Frozen,c14,Frozen Desserts or Fruit and Toppings,sc31,Pies Frozen
+l2,Center,d5,Frozen,c15,Frozen Juice,sc32,Frozen Apple Juice
+l2,Center,d5,Frozen,c15,Frozen Juice,sc33,Frozen Fruit Drink Mixers
+l2,Center,d5,Frozen,c15,Frozen Juice,sc34,Frozen Fruit Juice All Other
+l2,Center,d6,GM,c16,Audio Video,sc35,Audio
+l2,Center,d6,GM,c16,Audio Video,sc36,Video DVD
+l2,Center,d6,GM,c16,Audio Video,sc37,Video VHS
+l2,Center,d6,GM,c17,Housewares,sc38,Bedding
+l2,Center,d6,GM,c17,Housewares,sc39,Candles
+l2,Center,d6,GM,c17,Housewares,sc40,Collectibles and Gifts
+l2,Center,d6,GM,c17,Housewares,sc41,Flashlights
+l2,Center,d6,GM,c17,Housewares,sc42,Frames
+l2,Center,d6,GM,c18,Insect and Rodent,sc43,Indoor Repellants or Traps
+l2,Center,d6,GM,c18,Insect and Rodent,sc44,Outdoor Repellants or Traps
+l2,Center,d6,GM,c19,Kitchen Accessories,sc45,Kitchen Accessories
+l2,Center,d6,GM,c20,Laundry,sc46,Bleach Liquid
+l2,Center,d6,GM,c20,Laundry,sc47,Bleach Powder
+l2,Center,d6,GM,c20,Laundry,sc48,Fabric Softener Liquid
+l2,Center,d6,GM,c20,Laundry,sc49,Fabric Softener Sheets
+l2,Center,d7,Grocery,c21,Baking Ingredients,sc50,Dry or Canned Milk
+l2,Center,d7,Grocery,c21,Baking Ingredients,sc51,Food Coloring
+l2,Center,d7,Grocery,c22,Spices,sc52,Salt Cooking or Edible or Seasoned
+l2,Center,d7,Grocery,c22,Spices,sc53,Salt Substitute
+l2,Center,d7,Grocery,c22,Spices,sc54,Seasoning Dry
+l2,Center,d7,Grocery,c23,Stuffing Products,sc55,Stuffing Products
+l1,Perimeter,d8,Seafood,c24,Frozen Shellfish,sc56,Frozen Shellfish
+l1,Perimeter,d8,Seafood,c25,Other Seafood,sc57,All Other Seafood
+l1,Perimeter,d8,Seafood,c25,Other Seafood,sc58,Prepared Seafood Entrees
+l1,Perimeter,d8,Seafood,c25,Other Seafood,sc59,Seafood Salads
+l1,Perimeter,d8,Seafood,c25,Other Seafood,sc60,Smoked Fish
+l1,Perimeter,d8,Seafood,c25,Other Seafood,sc61,Seafood Breading Sauces Dips
